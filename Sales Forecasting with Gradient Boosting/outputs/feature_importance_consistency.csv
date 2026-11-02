@@ -1,0 +1,12 @@
+Feature,Models_in_Top_10,Important_in_Models
+CompetitionDistance,3,"Decision Tree, Random Forest, Gradient Boosting"
+CompetitionOpenSinceMonth,3,"Decision Tree, Random Forest, Gradient Boosting"
+CompetitionOpenSinceYear,3,"Decision Tree, Random Forest, Gradient Boosting"
+DayOfWeek,3,"Decision Tree, Random Forest, Gradient Boosting"
+Promo,3,"Decision Tree, Random Forest, Gradient Boosting"
+Promo2SinceWeek,3,"Decision Tree, Random Forest, Gradient Boosting"
+Store,3,"Decision Tree, Random Forest, Gradient Boosting"
+StoreType_b,3,"Decision Tree, Random Forest, Gradient Boosting"
+WeekOfYear,3,"Decision Tree, Random Forest, Gradient Boosting"
+Day,2,"Random Forest, Gradient Boosting"
+Promo2SinceYear,1,Decision Tree
